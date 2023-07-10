@@ -1,0 +1,10 @@
+平衡二叉树：
+https://www.cs.usfca.edu/~galles/visualization/AVLtree.html
+
+B-树：
+https://www.cs.usfca.edu/~galles/visualization/BTree.html
+注意网站中删除结点时操作方向与书中介绍的相反，以书中方法为准。
+
+排序算法：
+https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html
+注意往年试卷中，归并排序考试中采用上取整而非常规的下取整。
