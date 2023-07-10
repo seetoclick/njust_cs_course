@@ -4,9 +4,10 @@
 3. 大题与17年及以前有了较大变化。
 4. 名词解释有：OSPF，流量控制，DNS递归查询，MTU，SDN等
 5. 大题分别为
-   （1）分析 $A$ 发生信息到 $B$ 经过的各层名称，作用和过程
-   （2）分析cookie的过程
-   （3）CDMA计算题
-   （4）Dijkstra算法
-   （5）画出GBN的状态图
-   （6）分析socket编程代码，五道问答题，其中有WSAStartup(MAKEWORD(2,2),&WSAData)的作用；INADDR_ANY是什么；sock和sock1区别等
+   （1）分析 $A$ 发生信息到 $B$ 经过的各层名称，作用和过程   <br/>
+   （2）分析cookie的过程   <br/>
+   （3）CRC计算题   <br/>
+   （4）CDMA计算题   <br/>
+   （5）Dijkstra算法   <br/>
+   （6）画出GBN的状态图   <br/>
+   （7）分析socket编程代码，五道问答题，其中有WSAStartup(MAKEWORD(2,2),&WSAData)的作用；INADDR_ANY是什么；sock和sock1区别等
