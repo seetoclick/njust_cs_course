@@ -3,7 +3,7 @@ https://www.cs.usfca.edu/~galles/visualization/AVLtree.html
 
 B-树：
 https://www.cs.usfca.edu/~galles/visualization/BTree.html
-注意网站中删除结点时操作方向与书中介绍的相反，以书中方法为准。
+注意网站中删除结点时操作方向与教材介绍的相反，以教材中方法为准。
 
 排序算法：
 https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html
